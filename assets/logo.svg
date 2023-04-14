@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 968 239" width="968" height="239">
+	<title>logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 150px;fill: #ffffff;font-weight: 400;font-family: "Duplexide", "Duplexide" } 
+	</style>
+	<text id="FS-LOADING" style="transform: matrix(1,0,0,1,45,17)" >
+		<tspan x="19.3" y="154" class="t0">F</tspan><tspan  y="154" class="t0">S</tspan><tspan  y="154" class="t0">-</tspan><tspan  y="154" class="t0">L</tspan><tspan  y="154" class="t0">O</tspan><tspan  y="154" class="t0">A</tspan><tspan  y="154" class="t0">D</tspan><tspan  y="154" class="t0">I</tspan><tspan  y="154" class="t0">N</tspan><tspan  y="154" class="t0">G
+</tspan>
+	</text>
+</svg>
